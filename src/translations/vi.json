@@ -1,0 +1,136 @@
+{
+    "home-header": {
+        "Speciality":"Chuyên khoa",
+        "Searchdoctor":"Tìm bác sĩ theo chuyên khoa",
+        "Health-facility":"Cơ sơ y tế",
+        "Select-room":"Chọn bệnh viện phòng khám",
+        "Doctor":"Bác sĩ",
+        "Select-doctor":"Chọn bác sĩ",
+        "fee":"Gói khám",
+        "check-health":"Khám sức khỏe tổng quát",
+        "Support":"Hỗ trợ",
+            "welcome":"Xin chào,"
+    },
+    "banner":{
+        "title1":"NỀN TẢNG Y TẾ",
+        "title2":"CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+        "child1":"Khám chuyên khoa",
+        "child2":"Khám từ xa",
+        "child3":"Khám tổng quát",
+        "child4":"Xét nghiệm y học",
+        "child5":"sức khỏe tinh thần",
+        "child6":"Khám nha khoa"
+    },
+    "specialty":{
+        "title":"chuyên khoa phổ biến",
+        "mes":"xem thêm",
+        "child1":"Co xuong khop 1",
+        "child2":"Co xuong khop 2",
+        "child3":"Co xuong khop 3",
+        "child4":"Co xuong khop 4",
+        "child5":"Co xuong khop 5",
+        "child6":"Co xuong khop 6"
+    },
+    "facility":{
+        "title":"Hệ thống cơ sở y tế nổi bật",
+        "mes":"xem thêm",
+        "child1":"Hệ thống y tế Thu Cúc  1",
+        "child2":"Hệ thống y tế Thu Cúc  2",
+        "child3":"Hệ thống y tế Thu Cúc  3",
+        "child4":"Hệ thống y tế Thu Cúc  4",
+        "child5":"Hệ thống y tế Thu Cúc  5",
+        "child6":"Hệ thống y tế Thu Cúc  6"
+    },
+    "OutStandingDoctor":{
+        "title":"Bác sĩ nổi bật",
+        "mes":"Xem thêm",
+        "child1":"Bác sĩ nỗi bật 1",
+        "child2":"Bác sĩ nỗi bật 2",
+        "child3":"Bác sĩ nỗi bật 3",
+        "child4":"Bác sĩ nỗi bật 4",
+        "child5":"Bác sĩ nỗi bật 5",
+        "child6":"Bác sĩ nỗi bật 6"
+    }, 
+    "HandBook":{
+        "title":"Cẩm nang",
+        "mes":"Xem thêm",
+        "child1":"Chi phí khám tâm lý tại các bệnh viện, phòng khám Hà Nội",
+        "child2":"Chi phí khám tâm lý tại các bệnh viện, phòng khám Hà Nội",
+        "child3":"Chi phí khám tâm lý tại các bệnh viện, phòng khám Hà Nội",
+        "child4":"Chi phí khám tâm lý tại các bệnh viện, phòng khám Hà Nội",
+        "child5":"Chi phí khám tâm lý tại các bệnh viện, phòng khám Hà Nội",
+        "child6":"Chi phí khám tâm lý tại các bệnh viện, phòng khám Hà Nội"
+    },
+    "manage-user":{
+        "add":"Thêm người dùng",
+        "email":"Gmail",
+        "password":"Mật khẩu",
+        "firstName":"Họ",
+        "lastName":"Tên",
+        "phone":"Số điện thoại",
+        "address":"Địa chỉ",
+        "gender":"Giới tính",
+        "choose":"Lựa chọn",
+        "position":"Chức danh",
+        "roleId":"Vai trò",
+        "image":"Hình ảnh",
+        "Checkmeout":"điều khoản",
+        "save":"thêm mới",
+        "edit":"Lưu thay đổi"
+    },
+    "manage-doctor-schedule":{
+        "title":"Quản lý kế hoạch khám bệnh của bác sĩ",
+        "select-doctor":"Chọn bác sĩ",
+        "select-day":"Chọn ngày ",
+        "save":"Lưu thông tin"
+    },
+    "menu": {
+        "admin":{
+            "manage-user":" người dùng",
+            "manage-doctor":"Quản lý bác sĩ",
+            "manage-admin":"Quản lý Admin",
+            "crud":"CRUD user",
+            "crud-redux":"CRUD Redux",
+            "clinic":"phòng khám",
+            "manage-clinic":"Quản lý phòng khám",
+            "specialty":"Chuyên khoa",
+            "hanBook":"Cẩm nang",
+            "manage-specialty":"Quản lý chuyên khia",
+            "manage-hanBook":"Quản lý bài đăng"
+        },
+        "doctor":{
+            "schedule":"Quản lý lịch trình",
+            "manager-schedule":"Quản lý kế hoạch phòng khám",
+            "patient":"Quản lý bệnh nhân",
+            "manager-patient":"Quản lý lý kế hoạch bệnh nhân"
+        }
+    }
+    ,
+        "manager-doctor-info": {
+            "header":"Tạo thông tin bác sĩ",
+            "select": "Chọn bác sĩ",
+            "information": "Thêm thông tin bác sĩ",
+            "save": "lưu thông tin",
+            "edit":"Sửa thông tin ",
+            "schedule":"Không có lịch hẹn trong thời gian này,vui lòng chọn thời gian khác",
+            "examinationSchedule":"Lịch khám",
+            "choose":"chọn",
+            "and":" và",
+            "order":" đặt (miễn phí)",
+            "price":"Chọn giá",
+            "payment":"Chọn phương thức thanh toán",
+            "province":"Chọn tỉnh thành",
+            "ClinicName":"Tên phòng khám",
+            "ClinicAddress":"Địa chỉ phòng khám",
+            "Note":"Ghi chú",
+            "selectedSpecial":"Chọn chuyên khoa",
+            "selectedClinic":"Chọn phòng khám"
+        },
+        "manager-doctor-extra": {
+            "andres":"ĐỊA CHỈ KHÁM",
+            "address-price":"GIÁ KHÁM",
+            "more-info":"Xem chi tiết",
+            "Price for re-examination":"Giá tái khám",
+            "Hide-price-list":"Ản bảng giá"
+        }
+}

@@ -1,0 +1,149 @@
+{  
+      "home-header": {
+        "Speciality":"Medical Speciality",
+        "Searchdoctor":"Find a doctor by Speciality",
+        "Health-facility":"Health facility",
+        "Select-room":"Choose hospital clinic",
+        "Doctor":"Doctor",
+        "Select-doctor":"Choose a good doctor",
+        "fee":"Checkup package",
+        "check-health":"General health check",
+        "Support":"Support",
+        "welcome":"welcome,"
+    },
+    "banner":{
+        "title1":"MEDICAL BACKGROUND",
+        "title2":"COMPREHENSIVE HEALTH CARE",
+        "child1":"Specialist examination",
+        "child2":"Remote examination",
+        "child3":"General examination",
+        "child4":"Medical test",
+        "child5":"mental health",
+        "child6":"Dental examination"
+    },
+    "specialty":{
+        "title":"Popular specialties",
+        "mes":"see more",
+        "child1":"musculoskeletal 1",
+        "child2":"musculoskeletal 2",
+        "child3":"musculoskeletal 3",
+        "child4":"musculoskeletal 4",
+        "child5":"musculoskeletal 5",
+        "child6":"musculoskeletal 6"
+    },
+    "facility":{
+        "title":"Outstanding medical facility",
+        "mes":"see more",
+        "child1":"medical system Thu Cuc 1",
+        "child2":"medical system Thu Cuc 2",
+        "child3":"medical system Thu Cuc 3",
+        "child4":"medical system Thu Cuc 4",
+        "child5":"medical system Thu Cuc 5",
+        "child6":"medical system Thu Cuc 6"
+    },
+    "OutStandingDoctor":{
+        "title":"Outstanding Doctor",
+        "mes":"see more",
+        "child1":"Specialist 1",
+        "child2":"Specialist 2",
+        "child3":"Specialist 3",
+        "child4":"Specialist 4",
+        "child5":"Specialist 5",
+        "child6":"Specialist 6"
+    },
+    "HandBook":{
+        "title":"Hand Book",
+        "mes":"see more",
+        "child1":"musculoskeletal 1",
+        "child2":"musculoskeletal 2",
+        "child3":"musculoskeletal 3",
+        "child4":"musculoskeletal 4",
+        "child5":"musculoskeletal 5",
+        "child6":"musculoskeletal 6"
+    },
+    "manage-user":{
+        "add":"Add a new user",
+        "email":"Gmail",
+        "password":"Password",
+        "firstName":"First Name",
+        "lastName":"Last Name",
+        "phone":"Phone Number",
+        "address":"Address",
+        "gender":"Gender",
+        "choose":"choose",
+        "position":"position",
+        "roleId":"Role ID",
+        "image":"Image",
+        "Checkmeout":"Check me out",
+        "save":"Save user",
+        "edit":"Edit user"
+
+    },
+    "manage-doctor-schedule":{
+        "title":"Manager Schedule doctor",
+        "select-doctor":"choose doctor",
+        "select-day":"choose day",
+        "save":"Save information"
+    }
+    ,
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "manage user using redux",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin":{
+            "manage-user":"User management",
+            "manage-doctor":"Doctor management",
+            "manage-admin":"admin management",
+            "crud":"CRUD user",
+            "crud-redux":"CRUD Redux",
+            "clinic":"Clinic",
+            "manage-clinic":"Clinic manager",
+            "specialty":"Specialty",
+            "hanBook":"HandBook",
+            "manage-specialty":"Specialty manager",
+            "manage-hanBook":"HandBook manager"
+        },
+        "doctor":{
+            "schedule":"Manager schedule",
+            "manager-schedule":"Manager doctor schedule"
+        }
+    }
+    ,
+        "manager-doctor-info": {
+            "header":"Create doctor information",
+            "select": "Select doctor",
+            "information": "Add doctor information",
+            "save": "Save doctor information",
+            "edit":"Edit doctor information",
+            "schedule":"There are no appointments available during this time, please choose another time",
+            "examinationSchedule":"examination schedule",
+            "choose":" choose",
+            "and":" and",
+            "order":" Order (free)",
+            "price":"Select price",
+            "payment":"Select method Payment",
+            "province":"Select Province",
+            "ClinicName":"Clinic name",
+            "ClinicAddress":"Clinic address",
+            "Note":"Note",
+            "selectedSpecial":"Choose a specialty",
+            "selectedClinic":"Choose a clinic"
+
+        },
+        "manager-doctor-extra": {
+            "andres":"EXAMINATION ADDRESS",
+            "address-price":"EXAMINATION PRICE",
+            "more-info":"See details",
+            "Price for re-examination":"Price for re-examination",
+            "Hide-price-list":"Hide price list"
+        }
+}
